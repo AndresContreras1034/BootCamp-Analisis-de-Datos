@@ -20,3 +20,27 @@ Aprenderás desde la identificación y limpieza de datos hasta la manipulación 
 Además, realizarás prácticas que te permitirán aplicar estos conocimientos en escenarios reales, estructurando informes visuales efectivos.
 
 Los **Bootcamps de Talento Tech** ofrecen una experiencia de aprendizaje integral, asegurando que no solo adquieras conocimientos teóricos, sino que también desarrolles habilidades prácticas relevantes para el mundo laboral.
+
+
+# Importancia del Análisis de Datos
+
+- Permite a las empresas tomar decisiones basadas en datos concretos y no en suposiciones o intuiciones.
+- Aumenta la eficiencia y eficacia de los procesos empresariales.
+- Mejora la comprensión de los clientes, los mercados y las tendencias.
+- Ayuda a identificar oportunidades de crecimiento y mejora.
+- Facilita la detección y prevención de problemas.
+
+**Nota:** No es el software, son las personas.
+
+# ¿Qué es Análisis de Datos?
+
+- Proceso de recolectar, limpiar, transformar y examinar datos.
+- Objetivo: extraer información útil, descubrir patrones y tendencias.
+- Uso de técnicas estadísticas, matemáticas y de programación.
+- Apoyo en la toma de decisiones.
+
+## En conclusión
+El análisis de datos es el proceso de inspección, limpieza, transformación y modelado de datos para la toma de decisiones.
+
+
+
