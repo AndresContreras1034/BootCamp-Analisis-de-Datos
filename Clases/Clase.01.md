@@ -39,8 +39,46 @@ Los **Bootcamps de Talento Tech** ofrecen una experiencia de aprendizaje integra
 - Uso de técnicas estadísticas, matemáticas y de programación.
 - Apoyo en la toma de decisiones.
 
-## En conclusión
-El análisis de datos es el proceso de inspección, limpieza, transformación y modelado de datos para la toma de decisiones.
+# Análisis de Datos
+
+## Pilares del Análisis de Datos
+
+El análisis de datos se basa en cuatro pilares fundamentales que guían el proceso de transformar datos crudos en información útil:
+
+1. **Preparar**  
+   Recoger, limpiar y organizar los datos para asegurar su exactitud y consistencia. Esto incluye manejar valores faltantes, corregir errores y estructurar los conjuntos de datos para el análisis.
+
+2. **Explorar**  
+   Examinar los datos para comprender sus características, descubrir patrones y detectar anomalías. Esto puede incluir resúmenes estadísticos, comprobaciones de correlación y visualizaciones preliminares.
+
+3. **Visualizar**  
+   Representar los datos gráficamente para que las tendencias, relaciones y patrones sean más fáciles de interpretar. Herramientas comunes incluyen gráficos, diagramas y dashboards.
+
+4. **Comunicar**  
+   Presentar los hallazgos de forma clara a los interesados mediante informes, presentaciones o dashboards interactivos, asegurando que los resultados respalden la toma de decisiones.
+
+---
+
+## Fases del Análisis de Datos
+
+El pilar de **Explorar** se puede dividir en fases específicas:
+
+1. **Recopilación de Datos**  
+   Obtener datos de fuentes relevantes como bases de datos, APIs, encuestas o registros.
+
+2. **Limpieza de Datos**  
+   Detectar y corregir errores, eliminar duplicados, manejar valores faltantes y estandarizar formatos.
+
+3. **Integración de Datos**  
+   Combinar datos de múltiples fuentes para crear un conjunto de datos completo y listo para el análisis.
+
+4. **Transformación de Datos**  
+   Convertir los datos a formatos adecuados, crear variables derivadas y normalizar valores si es necesario.
+
+5. **Análisis y Modelado**  
+   Aplicar métodos estadísticos, modelos de machine learning u otras técnicas analíticas para descubrir patrones, insights y realizar predicciones.
+
+
 
 
 
